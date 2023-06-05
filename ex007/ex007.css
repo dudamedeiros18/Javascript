@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+p{
+    color: blue;
+}
+.we{
+    color: white;
+}
+.botao1{
+    background-color: blue;
+    color: white;}
+
+
+.botao2{
+    background-color: blue;
+    color: white;
+}
+section{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+h1{
+    color: white;
+}

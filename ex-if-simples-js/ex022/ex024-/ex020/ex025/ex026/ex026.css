@@ -1,0 +1,13 @@
+body{
+    background-color: mediumslateblue;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+div{
+    text-align: center;
+    background-color: white;
+    width: 30%;
+    margin: 0 auto;
+    }

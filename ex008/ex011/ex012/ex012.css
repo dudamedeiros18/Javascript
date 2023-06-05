@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: mediumslateblue}
+
+    h1{
+        color: white;
+    }
+
+    div{
+        background-color: white;
+        border-radius: 5px;
+        height: 500px;
+        width: 500px;
+        text-align: center;
+        margin: 0% auto;
+        padding: 5px;
+    }
